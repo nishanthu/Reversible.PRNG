@@ -1,0 +1,10 @@
+Package: Reversible.PRNG
+Type: Package
+Title: Generates PRN in forward and backward direction
+Version: 0.1.0
+Author: Nishanth Upadhyaya
+Maintainer: Nishanth Upadhyaya <nishanthu@gmail.com>
+Description: Generates pseudo random numbers in forward and backward direction
+License: MIT
+LazyData: TRUE
+Imports: digest
